@@ -1,0 +1,5 @@
+applications:
+  - name: TIFFYTASTE-Backend
+    random-route: true
+    memory: 256M
+    instances: 1
